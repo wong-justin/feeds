@@ -1,6 +1,0 @@
-[jw.org-videos]
-title = "JW.org New Videos"
-url = "https://www.jw.org/en/whats-new/"
-entrySelector = ".jsSynCarousel .slick-slide"
-titleSelector = "h3"
-linkSelector = "h3 a"
