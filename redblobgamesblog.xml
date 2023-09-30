@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wong-justin.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-09-30T01:27:57.347Z</updated>
+    <id>https://simblob.blogspot.com/</id>
+    <title>Blobs in Games</title>
+    <updated>2023-09-30T01:27:57.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://simblob.blogspot.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Writing HTML by hand (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Writing HTML by hand]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.486Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/09/writing-html-by-hand.html">Writing HTML by hand</a></span>
@@ -88,9 +89,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Changing a URL (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Changing a URL]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.494Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/08/changing-url.html">Changing a URL</a></span>
@@ -141,9 +142,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Experiments and motivation (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Experiments and motivation]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.495Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/07/experiments-and-motivation.html">Experiments and motivation</a></span>
@@ -186,9 +187,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving Mapgen4's boundaries, part 3 (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Improving Mapgen4's boundaries, part 3]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.496Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/04/improving-mapgen4s-boundaries-part-3.html">Improving Mapgen4's boundaries, part 3</a></span>
@@ -252,9 +253,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving Mapgen4's boundaries, part 2 (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Improving Mapgen4's boundaries, part 2]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.503Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/04/improving-mapgen4s-boundaries-part-2.html">Improving Mapgen4's boundaries, part 2</a></span>
@@ -323,9 +324,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving Mapgen4's boundaries, part 1 (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Improving Mapgen4's boundaries, part 1]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.503Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/04/improving-mapgen4s-boundaries-part-1.html">Improving Mapgen4's boundaries, part 1</a></span>
@@ -401,9 +402,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explaining the Hexagon Layout class (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Explaining the Hexagon Layout class]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.503Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/04/explaining-hexagon-layout-class.html">Explaining the Hexagon Layout class</a></span>
@@ -453,9 +454,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tank Control experiments (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Tank Control experiments]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.509Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/03/tank-control-experiments.html">Tank Control experiments</a></span>
@@ -506,9 +507,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making-of: draggable objects (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Making-of: draggable objects]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.509Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/02/making-of-draggable-objects.html">Making-of: draggable objects</a></span>
@@ -568,9 +569,9 @@ Amit
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making-of: circle drawing page (Blobs in Games)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Making-of: circle drawing page]]></title>
+        <id>https://simblob.blogspot.com/</id>
+        <link href="https://simblob.blogspot.com/"/>
         <updated>2023-09-30T01:27:56.510Z</updated>
         <content type="html"><![CDATA[<h2 class="p-name">
 <span><a href="https://simblob.blogspot.com/2023/01/making-of-circle-drawing.html">Making-of: circle drawing page</a></span>
