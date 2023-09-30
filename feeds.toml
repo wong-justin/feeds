@@ -1,14 +1,7 @@
 [jwvideos]
 title = "JW.org New Videos"
 url = "https://www.jw.org/en/whats-new/"
-entrySelector = ".jsSynCarousel .slick-slide"
+entrySelector = ".slick-slide"
 titleSelector = "h3"
 linkSelector = "h3 a"
-
-[redblobgamesblog]
-title = "Blobs in Games"
-url = "https://simblob.blogspot.com/"
-entrySelector = ".h-entry"
-titleSelector = ".p-name span"
-linkSelector = ".p-name span a"
-dateSelector = ".h-entry time"
+dateSelector = ".contextTt1"
