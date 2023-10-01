@@ -5,3 +5,11 @@ entrySelector = ".synopsis.lss"
 titleSelector = "h3"
 linkSelector = "h3 a"
 dateSelector = ".contextTt1"
+
+[jwnews]
+title = "JW.org What's New"
+url = "https://www.jw.org/en/whats-new/"
+entrySelector = ".synopsis.borderDotted"
+titleSelector = "h3"
+linkSelector = "h3 a"
+dateSelector = ".pubDate"
