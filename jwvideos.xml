@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.jw.org/en/whats-new/</id>
+    <id>https://www.jw.org/en/library/videos/#en/home</id>
     <title>JW.org New Videos</title>
-    <updated>2023-10-01T01:22:03.302Z</updated>
+    <updated>2023-10-01T01:31:52.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assetsnffrgf-a.akamaihd.net/assets/ct/1da5ee9b54/images/icon_favicon.gif</icon>
 </feed>
