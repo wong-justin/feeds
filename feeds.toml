@@ -1,10 +1,9 @@
 [jwvideos]
 title = "JW.org New Videos"
-url = "https://www.jw.org/en/whats-new/"
-entrySelector = ".syn-body.lss"
+url = "https://www.jw.org/en/library/videos/#en/home"
+entrySelector = ".slick-slide"
 titleSelector = "h3"
 linkSelector = "h3 a"
-dateSelector = ".contextTtl"
 
 [jwnews]
 title = "JW.org What's New"
