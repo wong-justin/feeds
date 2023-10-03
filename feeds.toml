@@ -1,9 +1,7 @@
 [jwvideos]
 title = "JW.org New Videos"
-url = "https://www.jw.org/en/library/videos/#en/home"
-entrySelector = ".slick-slide"
-titleSelector = "h3"
-linkSelector = "h3 a"
+url = "https://www.jw.org/en/whats-new/"
+entrySelector = ".synopsis"
 
 [jwnews]
 title = "JW.org What's New"
