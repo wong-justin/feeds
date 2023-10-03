@@ -12,10 +12,3 @@ entrySelector = ".synopsis.borderDotted"
 titleSelector = "h3"
 linkSelector = "h3 a"
 dateSelector = ".pubDate"
-
-[wonger]
-title = "wonger's website"
-url = "https://wonger.dev"
-entrySelector = "li"
-titleSelector = "a"
-linkSelector = "a"
