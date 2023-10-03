@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wong-justin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-03T06:50:25.371Z</updated>
+    <updated>2023-10-03T06:59:36.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Bible—The Good News According to Matthew Released in Lolo (JW.org What's New)]]></title>
@@ -3328,106 +3328,5 @@
    
 
 </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farewell to an unfinished webapp (wonger's website)]]></title>
-        <id>https://wonger.dev/posts/behind-jwshuffle</id>
-        <link href="https://wonger.dev/posts/behind-jwshuffle"/>
-        <updated>2023-10-03T06:50:23.619Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/behind-jwshuffle">Farewell to an unfinished webapp</a>
-				<p class="tags"><span>web</span></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List of GSoC Organizations (wonger's website)]]></title>
-        <id>https://wonger.dev/posts/gsoc-orgs</id>
-        <link href="https://wonger.dev/posts/gsoc-orgs"/>
-        <updated>2023-10-03T06:50:23.620Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/gsoc-orgs">List of GSoC Organizations</a>
-				<p class="tags"><span>gsoc</span></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind an interactive venn diagram: bitstrings and clipping masks (wonger's website)]]></title>
-        <id>https://wonger.dev/posts/behind-venn</id>
-        <link href="https://wonger.dev/posts/behind-venn"/>
-        <updated>2023-10-03T06:50:23.620Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/behind-venn">Behind an interactive venn diagram: bitstrings and clipping masks</a>
-				<p class="tags"><span>graphics</span><span>binary</span></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on monospace, fonts, ascii, unicode (wonger's website)]]></title>
-        <id>https://wonger.dev/posts/monospace-dump</id>
-        <link href="https://wonger.dev/posts/monospace-dump"/>
-        <updated>2023-10-03T06:50:23.621Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/monospace-dump">Notes on monospace, fonts, ascii, unicode</a>
-				<p class="tags"><span>text</span></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supporting shader-based filters in p5js (wonger's website)]]></title>
-        <id>https://wonger.dev/posts/p5js-shader-filters</id>
-        <link href="https://wonger.dev/posts/p5js-shader-filters"/>
-        <updated>2023-10-03T06:50:23.623Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/p5js-shader-filters">Supporting shader-based filters in p5js</a>
-				<p class="tags"><span>graphics</span><span>gsoc</span></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My experience contributing in Google Summer of Code (wonger's website)]]></title>
-        <id>https://wonger.dev/posts/gsoc</id>
-        <link href="https://wonger.dev/posts/gsoc"/>
-        <updated>2023-10-03T06:50:23.625Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/gsoc">My experience contributing in Google Summer of Code</a>
-				<p class="tags"><span>gsoc</span></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting up a custom domain and email - for beginners, by a beginner (wonger's website)]]></title>
-        <id>https://wonger.dev/posts/custom-domain-setup</id>
-        <link href="https://wonger.dev/posts/custom-domain-setup"/>
-        <updated>2023-10-03T06:50:23.629Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/custom-domain-setup">Setting up a custom domain and email - for beginners, by a beginner</a>
-				<p class="tags"><span>dns</span></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (wonger's website)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
-        <updated>2023-10-03T06:50:23.543Z</updated>
-        <content type="html"><![CDATA[designing applications with empathy for users]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (wonger's website)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
-        <updated>2023-10-03T06:50:23.549Z</updated>
-        <content type="html"><![CDATA[building websites and tools for the browser while avoiding modern web cruft]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (wonger's website)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
-        <updated>2023-10-03T06:50:23.550Z</updated>
-        <content type="html"><![CDATA[being more effective working in the terminal]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (wonger's website)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
-        <updated>2023-10-03T06:50:23.550Z</updated>
-        <content type="html"><![CDATA[writing better
-					<ul style="margin-top:1em;margin-bottom:0em;">
-						<li>more lists?</li>
-					</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (wonger's website)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
-        <updated>2023-10-03T06:50:23.551Z</updated>
-        <content type="html"><![CDATA[more lists?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (wonger's website)]]></title>
-        <id>https://wong-justin.github.io/feeds/all.xml</id>
-        <link href="https://wong-justin.github.io/feeds/all.xml"/>
-        <updated>2023-10-03T06:50:23.552Z</updated>
-        <content type="html"><![CDATA[staying balanced with the important parts of life; offline priorities]]></content>
     </entry>
 </feed>
