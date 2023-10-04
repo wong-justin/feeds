@@ -1,8 +1,3 @@
-[jwvideos]
-title = "JW.org New Videos"
-url = "https://www.jw.org/en/whats-new/"
-entrySelector = ".synopsis"
-
 [jwnews]
 title = "JW.org What's New"
 url = "https://www.jw.org/en/whats-new/"
