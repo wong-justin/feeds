@@ -9,6 +9,6 @@ dateSelector = ".pubDate"
 [wonger]
 title = "wonger.dev posts"
 url = "https://wonger.dev"
-entrySelector = ".posts-container li"
+entrySelector = "#posts-container li"
 titleSelector = "a"
 linkSelector = "a"
