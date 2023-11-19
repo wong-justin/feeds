@@ -6,7 +6,7 @@ titleSelector = "h3"
 linkSelector = "h3 a"
 dateSelector = ".pubDate"
 
-[wonger.dev]
+[wonger]
 title = "wonger.dev posts"
 url = "https://wonger.dev"
 entrySelector = ".posts-container li"
