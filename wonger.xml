@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wonger.dev</id>
     <title>wonger.dev posts</title>
-    <updated>2024-02-20T20:03:35.964Z</updated>
+    <updated>2024-02-21T04:03:27.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>data:,</icon>
+    <entry>
+        <title type="html"><![CDATA[In the works: a file manager, Android bookmarking, a SaaS, and doodles]]></title>
+        <id>https://wonger.dev/posts/in-the-works</id>
+        <link href="https://wonger.dev/posts/in-the-works"/>
+        <updated>2024-02-21T04:03:25.256Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/in-the-works">In the works: a file manager, Android bookmarking, a SaaS, and doodles</a>
+				<br>#terminal, #ux, #inspections]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Farewell to an unfinished webapp]]></title>
         <id>https://wonger.dev/posts/behind-jwshuffle</id>
