@@ -12,3 +12,11 @@ url = "https://wonger.dev"
 entrySelector = "#posts-container li"
 titleSelector = "a"
 linkSelector = "a"
+
+[bookcoverreview]
+title = "The Book Cover Review"
+url = "https://bookcoverreview.co.uk/index"
+entrySelector = ".tbl a"
+titleSelector = "div:nth-child(3)"
+linkSelector = ""
+dateSelector = "div:nth-child(1)"
