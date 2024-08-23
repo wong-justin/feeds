@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wonger.dev</id>
     <title>wonger.dev posts</title>
-    <updated>2024-08-22T20:04:19.753Z</updated>
+    <updated>2024-08-23T04:04:10.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>data:,</icon>
+    <entry>
+        <title type="html"><![CDATA[There is only one amphibian emoji]]></title>
+        <id>https://wonger.dev/posts/emoji-animals</id>
+        <link href="https://wonger.dev/posts/emoji-animals"/>
+        <updated>2024-08-23T04:04:09.562Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/emoji-animals">There is only one amphibian emoji</a>
+				<br>#text]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Behind is.slippi.ranked.today, a lil countdown site]]></title>
         <id>https://wonger.dev/posts/behind-is.slippi.ranked.today</id>
