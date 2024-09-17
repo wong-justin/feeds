@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wong-justin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-17T16:04:22.349Z</updated>
+    <updated>2024-09-17T20:03:27.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Power Beyond My Own (JW.org What's New)]]></title>
@@ -1256,6 +1256,14 @@
    
 
 </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutting videos in the terminal with chafa and ffmpeg (wonger.dev posts)]]></title>
+        <id>https://wonger.dev/posts/chafa-ffmpeg-progress</id>
+        <link href="https://wonger.dev/posts/chafa-ffmpeg-progress"/>
+        <updated>2024-09-17T20:03:26.400Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/chafa-ffmpeg-progress">Cutting videos in the terminal with chafa and ffmpeg</a>
+				<br>#text, #graphics]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[There is only one amphibian emoji (wonger.dev posts)]]></title>

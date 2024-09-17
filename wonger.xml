@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wonger.dev</id>
     <title>wonger.dev posts</title>
-    <updated>2024-09-17T16:04:22.284Z</updated>
+    <updated>2024-09-17T20:03:27.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>data:,</icon>
+    <entry>
+        <title type="html"><![CDATA[Cutting videos in the terminal with chafa and ffmpeg]]></title>
+        <id>https://wonger.dev/posts/chafa-ffmpeg-progress</id>
+        <link href="https://wonger.dev/posts/chafa-ffmpeg-progress"/>
+        <updated>2024-09-17T20:03:26.400Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/chafa-ffmpeg-progress">Cutting videos in the terminal with chafa and ffmpeg</a>
+				<br>#text, #graphics]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There is only one amphibian emoji]]></title>
         <id>https://wonger.dev/posts/emoji-animals</id>
