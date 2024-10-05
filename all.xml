@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wong-justin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-04T20:03:43.414Z</updated>
+    <updated>2024-10-05T04:03:33.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Hurricane Helene Slams Southeastern United States (JW.org What's New)]]></title>
@@ -1665,7 +1665,7 @@
         <link href="https://wonger.dev/posts/chafa-ffmpeg-progress"/>
         <updated>2024-09-17T20:03:26.400Z</updated>
         <content type="html"><![CDATA[<a href="/posts/chafa-ffmpeg-progress">Cutting videos in the terminal with chafa and ffmpeg</a>
-				<br>#text, #graphics]]></content>
+          <br>#text, #graphics]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[There is only one amphibian emoji (wonger.dev posts)]]></title>
@@ -1673,7 +1673,7 @@
         <link href="https://wonger.dev/posts/emoji-animals"/>
         <updated>2024-08-23T04:04:09.562Z</updated>
         <content type="html"><![CDATA[<a href="/posts/emoji-animals">There is only one amphibian emoji</a>
-				<br>#text]]></content>
+          <br>#text]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Behind is.slippi.ranked.today, a lil countdown site (wonger.dev posts)]]></title>
@@ -1681,7 +1681,7 @@
         <link href="https://wonger.dev/posts/behind-is.slippi.ranked.today"/>
         <updated>2024-04-25T08:03:24.744Z</updated>
         <content type="html"><![CDATA[<a href="/posts/behind-is.slippi.ranked.today">Behind is.slippi.ranked.today, a lil countdown site</a>
-				<br>#web]]></content>
+          <br>#web]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[In the works: a file manager, Android bookmarking, a SaaS, and doodles (wonger.dev posts)]]></title>
@@ -1689,7 +1689,7 @@
         <link href="https://wonger.dev/posts/in-the-works"/>
         <updated>2024-02-21T04:03:25.256Z</updated>
         <content type="html"><![CDATA[<a href="/posts/in-the-works">In the works: a file manager, Android bookmarking, a SaaS, and doodles</a>
-				<br>#ux, #potpourri]]></content>
+          <br>#ux, #potpourri]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Farewell to an unfinished webapp (wonger.dev posts)]]></title>
@@ -1697,7 +1697,7 @@
         <link href="https://wonger.dev/posts/behind-jwshuffle"/>
         <updated>2023-11-19T12:43:38.158Z</updated>
         <content type="html"><![CDATA[<a href="/posts/behind-jwshuffle">Farewell to an unfinished webapp</a>
-				<br>#web]]></content>
+          <br>#web]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[List of GSoC Organizations (wonger.dev posts)]]></title>
@@ -1705,7 +1705,7 @@
         <link href="https://wonger.dev/posts/gsoc-orgs"/>
         <updated>2023-11-19T12:43:38.160Z</updated>
         <content type="html"><![CDATA[<a href="/posts/gsoc-orgs">List of GSoC Organizations</a>
-				<br>#gsoc]]></content>
+          <br>#gsoc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Behind an interactive venn diagram: bitstrings and clipping masks (wonger.dev posts)]]></title>
@@ -1713,7 +1713,7 @@
         <link href="https://wonger.dev/posts/behind-venn"/>
         <updated>2023-11-19T12:43:38.161Z</updated>
         <content type="html"><![CDATA[<a href="/posts/behind-venn">Behind an interactive venn diagram: bitstrings and clipping masks</a>
-				<br>#graphics, #binary]]></content>
+          <br>#graphics, #binary]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notes on monospace, fonts, ascii, unicode (wonger.dev posts)]]></title>
@@ -1721,7 +1721,7 @@
         <link href="https://wonger.dev/posts/monospace-dump"/>
         <updated>2023-11-19T12:43:38.162Z</updated>
         <content type="html"><![CDATA[<a href="/posts/monospace-dump">Notes on monospace, fonts, ascii, unicode</a>
-				<br>#text]]></content>
+          <br>#text]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Supporting shader-based filters in p5js (wonger.dev posts)]]></title>
@@ -1729,7 +1729,7 @@
         <link href="https://wonger.dev/posts/p5js-shader-filters"/>
         <updated>2023-11-19T12:43:38.164Z</updated>
         <content type="html"><![CDATA[<a href="/posts/p5js-shader-filters">Supporting shader-based filters in p5js</a>
-				<br>#graphics, #gsoc]]></content>
+          <br>#graphics, #gsoc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My experience contributing in Google Summer of Code (wonger.dev posts)]]></title>
@@ -1737,7 +1737,7 @@
         <link href="https://wonger.dev/posts/gsoc"/>
         <updated>2023-11-19T12:43:38.165Z</updated>
         <content type="html"><![CDATA[<a href="/posts/gsoc">My experience contributing in Google Summer of Code</a>
-				<br>#gsoc]]></content>
+          <br>#gsoc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Setting up a custom domain and email - for beginners, by a beginner (wonger.dev posts)]]></title>
@@ -1745,6 +1745,6 @@
         <link href="https://wonger.dev/posts/custom-domain-setup"/>
         <updated>2023-11-19T12:43:38.167Z</updated>
         <content type="html"><![CDATA[<a href="/posts/custom-domain-setup">Setting up a custom domain and email - for beginners, by a beginner</a>
-				<br>#dns]]></content>
+          <br>#dns]]></content>
     </entry>
 </feed>
