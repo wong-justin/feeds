@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wong-justin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-24T12:05:47.095Z</updated>
+    <updated>2025-02-24T16:04:05.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UPDATE—BROTHER CONVICTED | Preparation Helped Aleksandr Kabanov Remain Calm (JW.org What's New)]]></title>
@@ -1318,6 +1318,14 @@
    
 
 </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An ugly alias (wonger.dev posts)]]></title>
+        <id>https://wonger.dev/posts/ugly-alias</id>
+        <link href="https://wonger.dev/posts/ugly-alias"/>
+        <updated>2025-02-24T16:04:05.161Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/ugly-alias">An ugly alias</a>
+          <br>#bash, #vim]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cutting videos in the terminal with chafa and ffmpeg (wonger.dev posts)]]></title>
