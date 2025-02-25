@@ -13,15 +13,6 @@ entrySelector = "#posts-container li"
 titleSelector = "a"
 linkSelector = "a"
 
-[wonger-nuggets]
-title = "wonger.dev nuggets"
-url = "https://wonger.dev/nuggets"
-entrySelector = ".card"
-linkSelector = ".bottom-line"
-titleSelector = ".bottom-line"
-contentSelector = ":not(.bottom-line)"
-dateSelector = ".bottom-line time"
-
 # This website throws weird errors; I think it's because HTML is loaded dynamically
 # from nuxt js, rather than static HTML existing onload. Maybe tweak timeouts somewhere?
 # [bookcoverreview]
