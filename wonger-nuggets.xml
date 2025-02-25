@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wonger.dev/nuggets</id>
+    <title>wonger.dev nuggets</title>
+    <updated>2025-02-25T18:36:05.374Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://wonger.dev/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#51, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[enough rambling.
+	  have you seen the astronomy
+          <a href="https://apod.nasa.gov/apod/astropix.html">picture of the day</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#50, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(7/7) one more benefit: this page is an idea incubator.
+	  some of these nuggets will hatch into full posts.
+          <!--
+	  (like #15, i promise. it's in my top five drafts. and tax season is upon us!)
+	  -->
+          and sometimes i find myself writing several nuggets in a row, only to i realize i had enough juice to write a full post after all, if it weren't for
+          <a href="#n47">#47</a>...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#49, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(6/7) an interesting phenomenon, as
+          <a href="https://jvns.ca/blog/2024/11/09/new-microblog/#the-solution-make-a-new-section-of-this-blog">julia</a>
+          noticed:
+	  this page is like bookmarks but better.
+	  before, if i found something cool, i'd bookmark the link and forget about it.
+	  now, if i find something cool, i'll write a blurb and share it here, and i'll remember it.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#48, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(5/7) casual nuggets relieve the tension.
+	  sometimes i want to say something useful or interesting, but it's too short or tangential. 
+	  sometimes i want to share something non-tech.
+	  where does it all go?
+	  before, nowhere.
+	  now, here!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#47, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(4/7) i put too much pressure on my main blog: overediting, triple checking, filtering out ideas.
+	  i only write in the format "i made a thing with code, look, i'm proud of it, and here's how it works".
+	  it's quite limiting.
+	  and slow.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#46, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(3/7) microblogs are not just for devs and techies, though.
+	  many twitter expats use
+          <a href="https://micro.blog/about">micro.blog</a>
+          or
+          <a href="https://thoughts.page/webring">thoughts.page</a>
+          to fill the void of social media.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#45, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(2/7) microblogs are the new hotness. 
+	  see
+          <a href="#n1">#1</a>.
+          see also
+          <a href="https://html-chunder.neocities.org/quick-post/202501242151/">zak's</a>
+          shell script and screencast that looks very similar to my workflow.
+	  not to mention the cool cousin of microblogs: weeknotes.
+	  like
+          <a href="https://alicebartlett.co.uk/blog/weaknotes">alice's</a>
+          or
+          <a href="https://plantay.me/tags/weeknotes/">dima's</a>.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#44, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(1/7) new post:
+          <a href="/posts/ugly-alias">an ugly alias</a>.
+	  it represents most of my computering — shortcuts, vim, scripting, deep diving into technical niches, and writing html.
+	  i'm fond of the
+          <a href="/assets/nug.mp4">screencast.mp4</a>.
+	  i ended the post early, though.
+	  here are some nuggets that didn't make the cut:]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#43, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[TIL: if you test a new domain at home, then test it the next day at work and see an https error, it's probably not your fault!
+	  your workplace network may have a "<a href="https://support.umbrella.com/hc/en-us/articles/235911828-Guide-to-the-Newly-Seen-Domains-Security-Category">newly seen domain</a>" blocking policy.
+	  the solution, as usual: wait 24 hrs.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#42, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://ghostty.in-one.page/">deployed</a>
+          smoothly!
+          <br>
+          <br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#41, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[snagged a domain: in-one.page.
+	  i think i'll redesign multiple documentation sites, starting with ghostty.in-one.page.
+	  i wish more documentation would let me ctrl+f everything on a single page.
+	  pagefind is good too.
+          <!-- perhaps next: chafa.in-one.page -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#40, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[also on car modifications: i want ventilated/cooled seats in my car.
+	  (driving in florida heat gives me swamp butt)
+	  i thought cooled seats were only in fancy cars but TIL there's aftermarket installation options.
+          <!-- 
+	  https://www.oemcarandtruckseats.com/blogs/news/aftermarket-ventilated-cooled-air-conditioned-seats-what-you-need-to-know?srsltid=AfmBOopAVRo5uI0CEGVwzdKFtNIVSnSYTOs0Zs39phO_KATROB9JIBYH
+	  -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#39, not long ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[randomly thinking about car window speeds: 
+	  who decided how fast is too fast?
+	  how slow is too slow?
+          <br>
+          <br>
+          fwiw, my window moves 16in (40cm) in 3.5 seconds.
+	  should it be faster?
+	  can i make it a lot slower for comedic effect?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#38, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[working on a documentation page:
+          <a href="/ghostty-reference/">/⁠ghostty-reference</a>.
+	happy to make something that looks professional. (thanks,
+          <a href="https://starlight.astro.build/">starlight</a>)
+	happy with the UX too:
+          <br>
+          <br>
+          shows-not-tells,
+          fits on one page,
+	  platform filters,
+	  less wasted space.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#37, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[til: astro has a dev toolbar, hidden at the bottom of the screen. you can mouseover or press tab. it has buttons to report an astro bug, copy debug info, inspect interactive islands, audit accessibility features. pretty nifty.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#36, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[some random niche songs i love:
+          <br>
+          <br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#35, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(3/3) i think donny's guide is the prequisite for matthew's
+          <a href="https://practicaltypography.com/">typography book</a>, which is more comprehensive, more opinionated, more elegant, yet less practical, despite the title.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#34, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(2/3) in summary, look for: a generous x-height, open apertures, even letter-spacing, clear terminals, distinguishable ascenders and descenders, and enough contrast in stroke thickness. aka: give eyeballs what they want.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#33, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(1/3) this is the most practical guide i've found for
+          <a href="https://prowebtype.com/selecting-body-text/">looking at fonts</a>.
+	  it's not just about vibes.
+	  donny points out exactly what makes a typeface legible.
+	  he also shares basic guidelines and css snippets for web typography in general.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#32, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[til: bash and readline are both maintained by one fellow!
+          <br>
+          <br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#31, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(2/2) the chronicles show the progression of culture along with tech.
+	  like, what was life like pre-internet?
+	  how did employment change with the introduction of computers?
+	  how did the first unix terminals work?
+	  what was the first software?
+	  who were the early adopters?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(1/2) the best history of computing imo, from 1984 to 2002:
+          <a href="https://www.youtube.com/playlist?list=PLmM8tWTshxQBws_fIdi5qH63rZxrlB0qL">the computer chronicles</a>.
+	  you see the world gradually discover computers.
+	  great hosts, neat demonstrations, good interviews.
+          <br>
+          <br>
+          perhaps start with S11E7, the internet.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#29, recently]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[if bored: check the 404 pages of your favorite small-web sites.
+	  for example, see
+          <a href="https://macwright.com/404">tom</a>
+          and
+          <a href="https://jackmcdade.com/404">jack</a>
+          and
+          <a href="https://sanlive.com/404">sandy</a>
+          and
+          <a href="https://manuelmoreale.com/404">manuel</a>
+          and many others that i'm forgetting.
+          <br>
+          <br>
+          bonus:
+          <a href="https://http.cat/404">http.cat</a>
+          <!--
+	  and rafal https://untested.sonnet.io/404
+	  and eva https://eva.town/404
+	  and zinzy https://www.zinzy.website/404
+	  and cory https://www.coryd.dev/404
+	  -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#28, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[some instrumental songs that make me feel warm and fuzzy inside:
+          <br>
+          <br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#27, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[i got a jaw harp.
+	  it makes the boing boing sound in
+          <a href="https://youtu.be/XYFBNA7uaJQ">spud infinity</a>
+          and
+          <a href="https://youtu.be/j4lMRyDKMvY">fantastic mr fox</a>.
+	  i thought it would be an easy instrument, but no!
+	  i struggle to coordinate my face, fingers, and breathing.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#26, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/assets/priscilla.jpg">cat.jpg</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#25, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(3/3) on the third hand, where else could i write about huffing my own farts?
+	  maybe that's what traditional social media is for.
+	  or diaries.
+	  or regular blogs.
+          <br>
+          <br>
+          (ever uncomfortable, the author continues sharing random links)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#24, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(2/3) on the other hand, i imagine readers sifting through the page and finding useful nuggets.
+	  that keeps me going.
+	  i also imagine they enjoy indie-web-voyeurism just as i do: curious to get inside people's heads and see something personal.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#23, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(1/3) i'm realizing a few weeks in: microblogging feels incredibly vain.
+	  both kinds of vain: vain as in huffing my own farts, and vain as in useless.
+	  on one hand, i imagine this page gives the same vibes as a loner tweeting unfunny jokes.
+          <!-- insufferable -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#22, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[just came across
+          <a href="https://www.keybr.com/">keybr</a>, 
+	  which is spaced repetition for typing practice.
+	  it gradually introduces new keys.
+	  it analyzes results, too: see my
+          <a href="/assets/keyboard_heatmap.jpg">heatmap.jpg</a>
+          of hits and misses (i often flub c, i, t, and p)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#21, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[i loved dave's
+          <a href="https://www.davepagurek.com/blog/p5-2.0-philosophy/">reflection</a>
+          on his experience with p5js.
+	  he has a lot of passion, creativity, smarts, and good vibes.
+	  happy to see him grow with the project.
+          <br>
+          <br>
+          p5 2.0 seems promising!
+	  bonus: the interactive
+          <a href="https://hello.p5js.org/">welcome demo</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#20, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[before llm agents, there was jessica's
+          <a href="https://youtube.com/watch?v=jJ4e6cIBgYM&amp;t=323s">atomist</a>, a "robot pair" for elm codegen.
+	  i think about it every year.
+	  1) elm's strong type system and compiler made it possible
+	  2) today, we can almost generate refactors for any language
+	  3) still need better ux]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#19, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[favorite tiny desk concerts:
+          <br>
+          <br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#18, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[adding to
+          <a href="#n1">#1</a>: my nuggets are also inspired by "linkblogs" like
+          <a href="https://tv.goodenough.us/">tv.goodenough.us</a>
+          or
+          <a href="https://heydingus.net/tagged/7-things">jarrod's 7 things</a>.
+	  sometimes you just want to share a cool link ¯\_(ツ)_/¯
+          <br>
+          <br>
+          (we are all digital hoarders)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#17, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[comments? questions? concerned?
+	  reach me at
+          <a href="mailto:justin@wonger.dev">justin@wonger.dev</a>.
+	  i like receiving emails from other internet wanderers.
+          <br>
+          <br>
+          have a swell day ◝(ᵔᵕᵔ)◜]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#16, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[kombucha tier list:]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#15, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[been wanting to write a post: "freetaxusa has great form design".
+	  just gotta do my taxes and take lots of screenshots.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#14, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[one-month review of the
+          <a href="https://akeeni.com/pages/xsto-wallet">xsto</a>
+          wallet:]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#13, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[reducing friction:
+          <a href="https://github.com/wong-justin/dotfiles/blob/ae10c2b7b38bff9273da615030c1ac5b3bb30416/.bashrc#L36C1-L70C48">my alias</a>
+          for
+          <code>alias</code>
+          itself.
+	  before: new aliases do not persist until you copy them to
+          <code>~/.bash_aliases</code>.
+	  after: just type
+          <code>alias key='value'</code>
+          as usual, and it automatically saves to file.
+          small UX victories.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#12, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[i've cooked up a fun alias for
+          <code>sudo !!</code>
+          (no shift required):]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#11, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(5/5)
+	  ultimately, i'm saying:
+	  try weightlifting.
+	  find a gym conveniently nearby,
+	  find a friend or personal trainer to mentor you for a couple months,
+	  find exercises you enjoy,
+	  find a time that works for you,
+	  find 30-whatever dollars a month.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#10, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(4/5)
+          maybe it's cliche to be a gym evangelist.
+	  i share these gym nuggets only because it's drastically improved my life.
+	  it's much more valuable than a bookmarklet or song recommendation.
+	  and that's coming from a twice-a-week newbie!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#9, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(3/5)
+          the gym is a refreshingly positive feedback loop:
+	  i lift weights, then i'm pumped with endorphins, then i eat &amp; drink well afterwards, then i'm happy and productive for a bit, then i sleep well, then the next day is easier.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#8, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(2/5)
+          i've grown used to negative feedback loops: 
+	  feeling depressed, then not taking care of myself, then losing energy and motivation, then falling behind on todos, then feeling crappy all over again, but worser.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#7, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(1/5)
+          just deadlifted my bodyweight for the first time!
+	  shoutouts to
+          <a href="https://youtube.com/@squatuniversity">squat university</a>
+          for superb weightlifting tips.
+	  first gym goal: complete.
+          <!-- i just got out of the shower, but i'm still showered with endorphins. -->
+          gymgoing is now a lifestyle, not a phase.
+	  it's sorta saving my life.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#6, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[another random music rec: a dream is all we know, by the lemon twigs (<a href="https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68?si=3nXzMNRySVCys3jtEMxTXg">spotify</a>).
+	  poppy 70s vibes, if that's your thing.
+	  their last two albums have been fantastic.
+	  i caught a few earworms.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#5, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(2/2) this means you can unbloat recipe websites in a few taps with this "foodmarklet":]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#4, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(1/2) did you know you can make bookmarklets (userscripts) on mobile? (<a href="https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/">full instructions</a>)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#3, a while ago]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-01-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[one of my favorite songs this year:
+          <a href="https://youtu.be/mi106DZJhuQ">"sisters of a down"</a>.
+	  such an unlikely crossover, yet it works so well.
+	  i can't get enough.
+	  now i'm searching for more indian music and more metal.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#2, in the beginning]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-25T18:36:04.414Z</updated>
+        <content type="html"><![CDATA[before settling on
+          <code>/nuggets</code>, i considered:
+          <code>/thoughts,</code>
+          <code>/tidbits,</code>
+          <code>/notelets,</code>
+          <code>/musings,</code>
+          <code>/shareables,</code>
+          <code>/lately,</code>
+          and
+          <code>/not-twitter</code>.
+	  feel free to adopt one for your own site.
+	  they deserve a home...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#1, in the beginning]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-25T18:36:04.420Z</updated>
+        <content type="html"><![CDATA[the indie web, particularly
+          <a href="https://heydingus.net/">jarrod</a>, inspired this page.
+	  see also: 
+	  linus'
+          <a href="https://stream.thesephist.com/">stream</a>, 
+          geoff's
+          <a href="https://geoffgraham.me/writing/one-liners/">one-liners</a>, 
+	  and simon's
+          <a href="https://til.simonwillison.net/">TILs</a>.
+	  the styling riffs off an earlier experiment of mine,
+          <a href="/enjoyables">/⁠enjoyables</a>.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#0, in the beginning]]></title>
+        <id>https://wonger.dev/nuggets</id>
+        <link href="https://wonger.dev/nuggets"/>
+        <updated>2025-02-25T18:36:04.421Z</updated>
+        <content type="html"><![CDATA[greetings from my new microblog!
+          <span id="what">"nuggets: a taste of who i am and what i do."</span>
+          sometimes tech, sometimes not.
+	  always casual.
+          <br>
+          <br>
+          sincerely,
+          <br>
+          <a href="/">wonger.dev</a>.]]></content>
+    </entry>
+</feed>
