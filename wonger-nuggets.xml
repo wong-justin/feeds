@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wonger.dev/nuggets</id>
     <title>wonger.dev nuggets</title>
-    <updated>2025-02-25T18:36:05.374Z</updated>
+    <updated>2025-02-25T20:03:29.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wonger.dev/favicon.ico</icon>
     <entry>
@@ -564,7 +564,7 @@
         <title type="html"><![CDATA[#2, in the beginning]]></title>
         <id>https://wonger.dev/nuggets</id>
         <link href="https://wonger.dev/nuggets"/>
-        <updated>2025-02-25T18:36:04.414Z</updated>
+        <updated>2025-02-25T20:03:28.889Z</updated>
         <content type="html"><![CDATA[before settling on
           <code>/nuggets</code>, i considered:
           <code>/thoughts,</code>
@@ -582,7 +582,7 @@
         <title type="html"><![CDATA[#1, in the beginning]]></title>
         <id>https://wonger.dev/nuggets</id>
         <link href="https://wonger.dev/nuggets"/>
-        <updated>2025-02-25T18:36:04.420Z</updated>
+        <updated>2025-02-25T20:03:28.889Z</updated>
         <content type="html"><![CDATA[the indie web, particularly
           <a href="https://heydingus.net/">jarrod</a>, inspired this page.
 	  see also: 
@@ -599,7 +599,7 @@
         <title type="html"><![CDATA[#0, in the beginning]]></title>
         <id>https://wonger.dev/nuggets</id>
         <link href="https://wonger.dev/nuggets"/>
-        <updated>2025-02-25T18:36:04.421Z</updated>
+        <updated>2025-02-25T20:03:28.911Z</updated>
         <content type="html"><![CDATA[greetings from my new microblog!
           <span id="what">"nuggets: a taste of who i am and what i do."</span>
           sometimes tech, sometimes not.
