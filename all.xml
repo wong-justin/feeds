@@ -2,8 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wong-justin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-21T16:04:20.732Z</updated>
+    <updated>2025-03-21T20:03:39.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Vocal Recording of Song 161 Now Available (JW.org What's New)]]></title>
+        <id>https://www.jw.org/en/whats-new/Vocal-Recording-of-Song-161-Now-Available/</id>
+        <link href="https://www.jw.org/en/whats-new/Vocal-Recording-of-Song-161-Now-Available/"/>
+        <updated>2025-03-21T20:03:37.000Z</updated>
+        <content type="html"><![CDATA[<div class="syn-img sqs ">
+               
+
+   <a href="/en/whats-new/Vocal-Recording-of-Song-161-Now-Available/" aria-hidden="true" data-page-id="mid500800112">
+      
+         <img data-largest="https://cms-imgp.jw-cdn.org/img/p/500800020/univ/art/500800020_univ_sqs_lg.jpg" data-smallest="https://cms-imgp.jw-cdn.org/img/p/500800020/univ/art/500800020_univ_sqs_xs.jpg" src="https://cms-imgp.jw-cdn.org/img/p/500800020/univ/art/500800020_univ_sqs_lg.jpg">
+      
+   </a>
+
+
+
+
+   
+   
+
+
+
+
+            </div>
+         
+      
+
+      <div class="syn-body sqs   ">
+
+   
+   <p class="meta pubDate">2025-03-21</p>
+
+
+
+   
+
+<p class="contextTitle">
+   
+      WHAT’S NEW
+   
+</p>
+
+
+
+
+   
+   <h3>
+
+
+
+
+   <a href="/en/whats-new/Vocal-Recording-of-Song-161-Now-Available/">
+      
+         Vocal Recording of Song 161 Now Available
+      
+   </a>
+
+
+
+
+   </h3>
+
+
+
+   
+   
+      <p class="desc"></p>
+   
+
+
+
+   
+   
+
+   
+
+
+
+   
+   
+
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To Do Your Will Is My Delight (2025 Convention Song) (JW.org What's New)]]></title>
         <id>https://www.jw.org/en/library/music-songs/original-songs/To-Do-Your-Will-Is-My-Delight-2025-Convention-Song/</id>
@@ -1655,6 +1738,20 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tech terms I was pronouncing wrong (wonger.dev posts)]]></title>
+        <id>https://wonger.dev/posts/pronunciations</id>
+        <link href="https://wonger.dev/posts/pronunciations"/>
+        <updated>2025-03-21T20:03:39.273Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/pronunciations">Tech terms I was pronouncing wrong</a>
+          <br>#idk, #ongoing
+          <!-- 
+		  perhaps "i didn't know, but now i do", like TIL?
+		  or "i don't know, and i still don't know" 
+		  or even "i don't know a proper category".
+	  -->
+	  <!-- #people -->]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[An ugly alias (wonger.dev posts)]]></title>
         <id>https://wonger.dev/posts/ugly-alias</id>
         <link href="https://wonger.dev/posts/ugly-alias"/>
@@ -1724,7 +1821,7 @@
         <link href="https://wonger.dev/posts/monospace-dump"/>
         <updated>2023-11-19T12:43:38.162Z</updated>
         <content type="html"><![CDATA[<a href="/posts/monospace-dump">Notes on monospace, fonts, ascii, unicode</a>
-          <br>#text]]></content>
+          <br>#text, #ongoing]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Supporting shader-based filters in p5js (wonger.dev posts)]]></title>
@@ -1740,7 +1837,8 @@
         <link href="https://wonger.dev/posts/gsoc"/>
         <updated>2023-11-19T12:43:38.165Z</updated>
         <content type="html"><![CDATA[<a href="/posts/gsoc">My experience contributing in Google Summer of Code</a>
-          <br>#gsoc]]></content>
+          <br>#gsoc
+	  <!-- #people -->]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Setting up a custom domain and email - for beginners, by a beginner (wonger.dev posts)]]></title>
