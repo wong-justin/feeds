@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wonger.dev</id>
     <title>wonger.dev posts</title>
-    <updated>2025-07-04T04:09:46.401Z</updated>
+    <updated>2025-07-04T08:04:34.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>data:,</icon>
+    <entry>
+        <title type="html"><![CDATA[I can deploy a website with my eyes closed]]></title>
+        <id>https://wonger.dev/posts/blindfolded-deployment</id>
+        <link href="https://wonger.dev/posts/blindfolded-deployment"/>
+        <updated>2025-07-04T08:04:33.739Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/blindfolded-deployment">I can deploy a website with my eyes closed</a>
+          <br>#accessibility]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tech terms I was pronouncing wrong]]></title>
         <id>https://wonger.dev/posts/pronunciations</id>
