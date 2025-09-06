@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wong-justin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-06T08:04:12.902Z</updated>
+    <updated>2025-09-06T12:05:19.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Special Campaigns Reach Amharic and French Speakers in Washington, D.C., U.S.A. (JW.org What's New)]]></title>
@@ -1471,18 +1471,18 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[I can deploy a website with my eyes closed (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/blindfolded-deployment.html</id>
-        <link href="https://wonger.dev/posts/blindfolded-deployment.html"/>
-        <updated>2025-09-06T08:04:12.180Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/blindfolded-deployment.html">I can deploy a website with my eyes closed</a>
+        <id>https://wonger.dev/posts/blindfolded-deployment</id>
+        <link href="https://wonger.dev/posts/blindfolded-deployment"/>
+        <updated>2025-09-06T12:05:18.559Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/blindfolded-deployment">I can deploy a website with my eyes closed</a>
           <br>#accessibility]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tech terms I was pronouncing wrong (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/pronunciations.html</id>
-        <link href="https://wonger.dev/posts/pronunciations.html"/>
-        <updated>2025-09-06T08:04:12.181Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/pronunciations.html">Tech terms I was pronouncing wrong</a>
+        <id>https://wonger.dev/posts/pronunciations</id>
+        <link href="https://wonger.dev/posts/pronunciations"/>
+        <updated>2025-09-06T12:05:18.561Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/pronunciations">Tech terms I was pronouncing wrong</a>
           <br>#ongoing
           <!-- 
 		  perhaps "i didn't know, but now i do", like TIL?
@@ -1493,103 +1493,103 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[An ugly alias (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/ugly-alias.html</id>
-        <link href="https://wonger.dev/posts/ugly-alias.html"/>
-        <updated>2025-09-06T08:04:12.182Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/ugly-alias.html">An ugly alias</a>
+        <id>https://wonger.dev/posts/ugly-alias</id>
+        <link href="https://wonger.dev/posts/ugly-alias"/>
+        <updated>2025-09-06T12:05:18.563Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/ugly-alias">An ugly alias</a>
           <br>#bash, #vim]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cutting videos in the terminal with chafa and ffmpeg (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/chafa-ffmpeg-progress.html</id>
-        <link href="https://wonger.dev/posts/chafa-ffmpeg-progress.html"/>
-        <updated>2025-09-06T08:04:12.184Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/chafa-ffmpeg-progress.html">Cutting videos in the terminal with chafa and ffmpeg</a>
+        <id>https://wonger.dev/posts/chafa-ffmpeg-progress</id>
+        <link href="https://wonger.dev/posts/chafa-ffmpeg-progress"/>
+        <updated>2025-09-06T12:05:18.565Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/chafa-ffmpeg-progress">Cutting videos in the terminal with chafa and ffmpeg</a>
           <br>#text, #graphics]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[There is only one amphibian emoji (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/emoji-animals.html</id>
-        <link href="https://wonger.dev/posts/emoji-animals.html"/>
-        <updated>2025-09-06T08:04:12.185Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/emoji-animals.html">There is only one amphibian emoji</a>
+        <id>https://wonger.dev/posts/emoji-animals</id>
+        <link href="https://wonger.dev/posts/emoji-animals"/>
+        <updated>2025-09-06T12:05:18.567Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/emoji-animals">There is only one amphibian emoji</a>
           <br>#text]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Behind is.slippi.ranked.today, a lil countdown site (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/behind-is.slippi.ranked.today.html</id>
-        <link href="https://wonger.dev/posts/behind-is.slippi.ranked.today.html"/>
-        <updated>2025-09-06T08:04:12.186Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/behind-is.slippi.ranked.today.html">Behind is.slippi.ranked.today, a lil countdown site</a>
+        <id>https://wonger.dev/posts/behind-is.slippi.ranked.today</id>
+        <link href="https://wonger.dev/posts/behind-is.slippi.ranked.today"/>
+        <updated>2025-09-06T12:05:18.568Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/behind-is.slippi.ranked.today">Behind is.slippi.ranked.today, a lil countdown site</a>
           <br>#web]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[In the works: a file manager, Android bookmarking, a SaaS, and
             doodles (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/in-the-works.html</id>
-        <link href="https://wonger.dev/posts/in-the-works.html"/>
-        <updated>2025-09-06T08:04:12.189Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/in-the-works.html">In the works: a file manager, Android bookmarking, a SaaS, and
+        <id>https://wonger.dev/posts/in-the-works</id>
+        <link href="https://wonger.dev/posts/in-the-works"/>
+        <updated>2025-09-06T12:05:18.570Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/in-the-works">In the works: a file manager, Android bookmarking, a SaaS, and
             doodles</a>
           <br>#ux, #potpourri]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Farewell to an unfinished webapp (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/behind-jwshuffle.html</id>
-        <link href="https://wonger.dev/posts/behind-jwshuffle.html"/>
-        <updated>2025-09-06T08:04:12.189Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/behind-jwshuffle.html">Farewell to an unfinished webapp</a>
+        <id>https://wonger.dev/posts/behind-jwshuffle</id>
+        <link href="https://wonger.dev/posts/behind-jwshuffle"/>
+        <updated>2025-09-06T12:05:18.571Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/behind-jwshuffle">Farewell to an unfinished webapp</a>
           <br>#web]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[List of GSoC Organizations (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/gsoc-orgs.html</id>
-        <link href="https://wonger.dev/posts/gsoc-orgs.html"/>
-        <updated>2025-09-06T08:04:12.190Z</updated>
-        <content type="html"><![CDATA[<a href="posts/gsoc-orgs.html">List of GSoC Organizations</a>
+        <id>https://wonger.dev/posts/gsoc-orgs</id>
+        <link href="https://wonger.dev/posts/gsoc-orgs"/>
+        <updated>2025-09-06T12:05:18.573Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/gsoc-orgs">List of GSoC Organizations</a>
           <br>#gsoc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Behind an interactive venn diagram: bitstrings and clipping masks (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/behind-venn.html</id>
-        <link href="https://wonger.dev/posts/behind-venn.html"/>
-        <updated>2025-09-06T08:04:12.192Z</updated>
-        <content type="html"><![CDATA[<a href="posts/behind-venn.html">Behind an interactive venn diagram: bitstrings and clipping masks</a>
+        <id>https://wonger.dev/posts/behind-venn</id>
+        <link href="https://wonger.dev/posts/behind-venn"/>
+        <updated>2025-09-06T12:05:18.575Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/behind-venn">Behind an interactive venn diagram: bitstrings and clipping masks</a>
           <br>#graphics, #binary]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notes on monospace, fonts, ascii, unicode (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/monospace-dump.html</id>
-        <link href="https://wonger.dev/posts/monospace-dump.html"/>
-        <updated>2025-09-06T08:04:12.193Z</updated>
-        <content type="html"><![CDATA[<a href="posts/monospace-dump.html">Notes on monospace, fonts, ascii, unicode</a>
+        <id>https://wonger.dev/posts/monospace-dump</id>
+        <link href="https://wonger.dev/posts/monospace-dump"/>
+        <updated>2025-09-06T12:05:18.576Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/monospace-dump">Notes on monospace, fonts, ascii, unicode</a>
           <br>#text, #ongoing
           <!-- evergreen, alive, living page -->]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Supporting shader-based filters in p5js (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/p5js-shader-filters.html</id>
-        <link href="https://wonger.dev/posts/p5js-shader-filters.html"/>
-        <updated>2025-09-06T08:04:12.195Z</updated>
-        <content type="html"><![CDATA[<a href="posts/p5js-shader-filters.html">Supporting shader-based filters in p5js</a>
+        <id>https://wonger.dev/posts/p5js-shader-filters</id>
+        <link href="https://wonger.dev/posts/p5js-shader-filters"/>
+        <updated>2025-09-06T12:05:18.578Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/p5js-shader-filters">Supporting shader-based filters in p5js</a>
           <br>#graphics, #gsoc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My experience contributing in Google Summer of Code (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/gsoc.html</id>
-        <link href="https://wonger.dev/posts/gsoc.html"/>
-        <updated>2025-09-06T08:04:12.196Z</updated>
-        <content type="html"><![CDATA[<a href="posts/gsoc.html">My experience contributing in Google Summer of Code</a>
+        <id>https://wonger.dev/posts/gsoc</id>
+        <link href="https://wonger.dev/posts/gsoc"/>
+        <updated>2025-09-06T12:05:18.579Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/gsoc">My experience contributing in Google Summer of Code</a>
           <br>#gsoc
           <!-- #people -->]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Setting up a custom domain and email - for beginners, by a
             beginner (wonger.dev posts)]]></title>
-        <id>https://wonger.dev/posts/custom-domain-setup.html</id>
-        <link href="https://wonger.dev/posts/custom-domain-setup.html"/>
-        <updated>2025-09-06T08:04:12.197Z</updated>
-        <content type="html"><![CDATA[<a href="posts/custom-domain-setup.html">Setting up a custom domain and email - for beginners, by a
+        <id>https://wonger.dev/posts/custom-domain-setup</id>
+        <link href="https://wonger.dev/posts/custom-domain-setup"/>
+        <updated>2025-09-06T12:05:18.582Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/custom-domain-setup">Setting up a custom domain and email - for beginners, by a
             beginner</a>
           <br>#dns]]></content>
     </entry>
