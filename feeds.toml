@@ -6,12 +6,16 @@ titleSelector = "h3"
 linkSelector = "h3 a"
 dateSelector = ".pubDate"
 
-[wonger]
-title = "wonger.dev posts"
-url = "https://wonger.dev"
-entrySelector = "#posts-container li"
-titleSelector = "a"
-linkSelector = "a"
+# dunno why it re-released all my posts today
+# was i offline for one scrape? unlikely
+# too unreliable to rely on for others
+# i should make my alternative feed scraper soon
+# [wonger]
+# title = "wonger.dev posts"
+# url = "https://wonger.dev"
+# entrySelector = "#posts-container li"
+# titleSelector = "a"
+# linkSelector = "a"
 
 # This website throws weird errors; I think it's because HTML is loaded dynamically
 # from nuxt js, rather than static HTML existing onload. Maybe tweak timeouts somewhere?
